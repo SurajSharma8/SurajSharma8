@@ -13,8 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **Rungta College of Engineering and Technology (RCET)**, Bhilai
-- 🛠️ Currently building an **AI-based cognitive gaming & memory assistance platform** (Flutter + FastAPI + SQLite + BHASHINI APIs) for **Smart India Hackathon (SIH)**
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **Rungta University**, Bhilai
 - 🌱 Sharpening my problem-solving skills in **Python**, **Data Structures & Algorithms**, and **Full-Stack Web Development**
 - 💬 Ask me about **Python scripting, Linux/Ubuntu setups, competitive coding, or hackathon prototyping**
 - ⚡ Fun fact: Between debugging code and exploring Linux VMs, I'm a massive fan of South Indian suspense thrillers and competitive mobile esports
